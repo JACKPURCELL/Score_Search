@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\ljczm\source\repos\Score_Search\Score_Search\main.cpp(830): warning C4101: “prev”: 未引用的局部变量
+C:\Users\ljczm\source\repos\Score_Search\Score_Search\main.cpp(864): warning C4101: “prev”: 未引用的局部变量
+C:\Users\ljczm\source\repos\Score_Search\Score_Search\main.cpp(976): warning C4101: “j”: 未引用的局部变量
+C:\Users\ljczm\source\repos\Score_Search\Score_Search\main.cpp(976): warning C4101: “num”: 未引用的局部变量
+  Score_Search.vcxproj -> C:\Users\ljczm\source\repos\Score_Search\x64\Debug\Score_Search.exe
